@@ -1,0 +1,4 @@
+com/demo/controllers/TestController.class
+com/demo/controllers/RabbitMQConfig.class
+com/demo/controllers/Person.class
+com/demo/controllers/RabbitMQConsumer.class
